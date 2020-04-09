@@ -21,10 +21,11 @@ MM-DD-YYYY.json
 
 Ejemplo del esquema de información
 
-    {  
-    "question": {  
-        "text": "¿Qué es el coronavirus?",  
-        "info": {  
+```json
+[  
+    {
+        "question": "¿Qué es el coronavirus?",  
+        "info": {
             "age": null,  
             "gender": "Male",  
             "country": "MX",  
@@ -58,11 +59,14 @@ Ejemplo del esquema de información
             },
             ...
         ]  
-    }  
-}
+    },
+    ...
+]
+```
 
 ### Frecuencia de actualización
 Archivos a partir del 13 de abril de 2020 estarán expuestos en **covid_19_daily_report** y se actualizara una vez al día al rededor de las 23:59 (UTC).
+
 Archivos con una semana de haber estado expuesto, pasarán a la carpeta **archived_data**
 
 ### API publica para obtener en tiempo real los últimos resultados (proximamente)
