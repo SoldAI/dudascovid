@@ -23,46 +23,46 @@ Ejemplo del esquema de información
 
 ```json
 [
-	{
+  {
     "question": {
-			"text": "en que consisten las pruebas rápidas?",
-			"info": {
-				"age": null,
-				"gender": "Not specified",
-				"city": "",
-				"country": "",
-				"poll": [
-					{
-						"id": "overwhelmedFeeling",
-						"question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
-						"answer": "almost nothing"
-					}
-				],
-				"answer": [
-					{
-						"text": "Ejemplo de respuesta",
-						"authorInfo": {},
-						"isPublic": false,
-						"createdAt": "2020-04-07T22:32:21.263+00:00",
-						"likes": 0
-					},
-					{
-						"text": "Ejemplo de respuesta 2",
-						"authorInfo": {
-							"institute": "UNAM",
-							"experience": 20,
-							"specialty": "Medicina del deporte"
-						},
-						"isPublic": true,
-						"createdAt": "2020-04-07T22:32:21.263+00:00",
-						"likes": 5
-					},
-					...
-				]
-			}
-		}
-	},
-	...
+      "text": "en que consisten las pruebas rápidas?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answer": [
+          {
+            "text": "Ejemplo de respuesta",
+            "authorInfo": {},
+            "isPublic": false,
+            "createdAt": "2020-04-07T22:32:21.263+00:00",
+            "likes": 0
+          },
+          {
+            "text": "Ejemplo de respuesta 2",
+            "authorInfo": {
+              "institute": "UNAM",
+              "experience": 20,
+              "specialty": "Medicina del deporte"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-07T22:32:21.263+00:00",
+            "likes": 5
+          },
+          ...
+        ]
+      }
+    }
+  },
+  ...
 ]
 ```
 
