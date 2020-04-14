@@ -1,0 +1,3400 @@
+[
+  {
+    "question": {
+      "text": "en que consisten las pruebas rápidas?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Cuántos casos hay en México?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Diariamente la OMS emite comunicados con la situacion en cada país. Entra a esta página para mirarlos:\n<a href=\"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports\">who.int/emergencies/di&hellip;</a>",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:39:55.870Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿me puedo contagiar si salgo a correr?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "El ejercicio al aire libre es un reto en estos momentos críticos. Si sales a ejercitarte, hazlo tomando las precauciones de mantener sana distancia con otros corredores , lávate las manos con agua y jabón antes de salir de casa, al llegar al sitio y al regresar a casa.  No salgas de casa en caso de tener síntomas por COVID-19 (fiebre, dolor de cabeza y/o tos).",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:57:02.497Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Cómo puedo prevenir el COVID-19?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Existen muchas medidas recomendadas por varios países. Recomendamos seguir las indicaciones de la OMS:\n<a href=\"https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public\">who.int/es/emergencies&hellip;</a>",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:34:50.745Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Como me contagio ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Es peligroso salir a hacer ejericicio",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "El ejercicio al aire libre es un reto en estos momentos críticos. Si sales a ejercitarte, hazlo tomando las precauciones de mantener sana distancia con otros corredores , lávate las manos con agua y jabón antes de salir de casa, al llegar al sitio y al regresar a casa.  No salgas de casa en caso de tener síntomas por COVID-19 (fiebre, dolor de cabeza y/o tos). Sigue las indicaciones de tus autoridades sanitarias locales.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:53:04.006Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que medidas de sanidad debo tener?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Las mascarillas sirven?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿es seguro comprar comida a domicilio?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Todas las personas con hipertensión mueren?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "No. Las enfermedades crónicas como la hipertensión son una de las tantas causas que facilitan que personas enfermas por COVID-19 desafortunadamente pierdan la vida. No todas las personas hipertensas fallecen.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T00:40:06.921Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "te puedes volver a contagear?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "La evidencia actual respecto a la reinfección es diversa. Aun no es posible emitir con certeza si la infección genera la inmunidad suficiente para evitar nuevamente contagiarse.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:43:13.111Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿a qué sabe la sopa de murciélago?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "es cierto que hacer gargaras de agua con sal mata el coronavirus?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cuantos casos hay en el sureste",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "cual es la diferencia entre una gripe y el coronavirus",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "que hospitales aceptan pacientes con coronavirus?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Cada estado en el territorio mexicano ha designado \"Hospitales COVID\". Visita la página de tu secretaria de salud estatal para conocerlos.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T18:02:22.281Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "esta mal tomar medicamentos?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Si usted consume medicamentos por alguna enfermedad diagnosticada, se recomienda continuar con su tratamiento tal y como su médico le ha indicado. ",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T22:27:04.584Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "puedo tomar desinflamatorios?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "que tipo de mascarilla debo usar?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "De acuerdo al Centro de Control de Enfermedades de los Estados Unidos (CDC, por sus siglas en inglés), se recomienda fabricar tus propias mascarillas con tela de algodón.\n\n<a href=\"https://espanol.cdc.gov/enes/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://espanol.cdc.gov/enes/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html\">espanol.cdc.gov/enes/c&hellip;</a>",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T22:33:02.165Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "se debe usar mascarilla en sitios publicos?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "que lugares permanecen abiertos?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "puedo acudir a supermercados?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Supermercados permanecen abiertos en estos momentos. En la medida de lo posible acude sin acompañantes y una o cada dos semanas. Los pasillos con los insumos iniciales permanecerán con acceso al público.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:45:52.531Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Como comienzo a sentir sintomas",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cuántos casos con Coronavirus hay en Mérida Yucatán y cuántos se han recuperado? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "1+1",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "2",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:37:54.359Z",
+            "likes": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "El covid puede contagiarse por lo animales?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "A pesar de que se ha reportado un casos aislado de un animal que resultó ser positivo por COVID-19 (un tigre de un zoológico de NY), no existe evidencia de que los animales puedan transmitir la enfermedad a las personas. ",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T22:21:00.364Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "leí que como ya es fase comunitaria todos debemos usar",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Perderé mi empleo?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "y que onda con las dichosas neumonías atípicas",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Toda neumonía se clasifica en dos grandes grupos las causadas por bacterias (típicas) y las causadas por otros agentes como virus, hongos, parásitos, químicos, etc. (atípicas). La enfermedad por COVID-19 produce una neumonía atípica pues el agente causal es un virus llamado SARS-COV 2.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T18:04:54.250Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Necesito un respirador",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "El uso de ventiladores es exclusivamente para uso dentro del hospital y bajo estrecho monitoreo de un equipo de profesionales de la salud con entrenamiento correspondiente.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:59:23.921Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Murciegalo",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Los murciélagos han demostrado ser excelentes reservorios virales para distintos virus por su gran capacidad inmune. El brote actual por virus SARS-CoV-2 se ha vinculado con la exposición a estos animales, sin embargo, es necesaria mayor evidencia para poder establecer dicha asociación.  ",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:59:07.618Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Hay menos riesgo si estoy en clima caluroso?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "La asociación entre el virus causante de la enfermedad por COVID-19 y el clima aun no ha sido establecida. Se requiere de más tiempo e información para decir con certeza que climas favorecen la transmisión y si el virus puede sobrevivir en temperaturas cálidas.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:36:36.713Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "El Covid-19 se puede contagiar por medio de comida infectada",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "No existe evidencia hasta el momento de que COVID-19 pueda transmitirse a través de alimentos. Sin embargo, se recomienda lavarse las manos con la técnica adecuada antes de cocinar, así como lavar y desinfectar los alimentos de manera usual.",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T03:10:49.053Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Tengo riesgo si vivo en clima cálido",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Sí. El clima hasta el momento no parece afectar en gran medida el riesgo de contagio entre personas. No te arriesgues y quédate en casa.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:46:44.640Z",
+            "likes": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Covid-19 tiene síntomas que traslapan con otras enfermedades virales ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Tengo riesgo si consumo prednisona",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "El uso de glucocorticoides reducen la capacidad de respuesta inmune. En caso de utilizar alguno protégete y sigue las recomendaciones oficiales para prevenir que puedas contagiarte.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T18:07:49.414Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Como afecta la cuarentena la salud mental? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Uso de prednisona",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cuánto durará el encierro",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cuando termina la cuarentena",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Puedo salir ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Quédate en casa si es posible. Si te preguntas si debes o no salir, entonces quédate en casa. Se recomienda únicamente salir en caso de actividades esenciales como la compra de alimentos.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:54:55.273Z",
+            "likes": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Hola, mi nombre es Ernesto Mier Esparza. Soy VIH positivo, con carga viral indetectable pero empecé a toser ayer. También tengo inicios de hipertensión.",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Personas con que viven con la infección por VIH o que padezcan algun tipo de enfermedad inmunosupresora, deben acudir a sus centros de salud lo antes posible en caso de presentar síntomas de enfermedad por COVID-19 (tos, fiebre y/o dolor de cabeza) para ser evaluados por un médico.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:48:14.624Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Es cierto que los cubrebocas se pueden reutilizar si los dejas reposar unos días? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "La mayoría de los cubrebocas de grado profesionales miden su vida útil por el tiempo de uso. Consulta las indicaciones del fabricante. Para cubrebocas menos avanzados, no se recomienda volverlos a utilizar. Cubrebocas de tela es necesario lavarlos con agua y jabón antes de volverse a utilizar.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:56:44.132Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "En que clínicas están atendiendo a pacientes con síntomas de covid ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Actualmente en México hay 375 denominadas \"Clínicas Centinela\" o clínicas monitoras de enfermedad respiratoria . Para conocer cuales son en tu estado visita la página de la secretaria de salud estatal. ",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:46:13.028Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Puedes contagiarte 2 veces de covid",
+      "info": {
+        "age": 32,
+        "gender": "Female",
+        "city": "YUC",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Existen muchas historias en los medios de comunicación acerca de pacientes infectados que después de salir negativos, vuelven a salir positivos días después. Esta segunda infección es prácticamente improbable. Incluso en los virus que montan respuestas inmunes débiles o incompletas, como el virus sincitial respiratorio, tienen que pasar entre seis meses y un año para que la memoria del sistema inmunológico se debilite lo suficiente y ocurra la reinfección.   Entonces, la probabilidad de que una reinfección ocurriera en un lapso menor a tres meses es muy improbable y además, se ha descubierto que el sistema inmune monta una respuesta protectora contra el COVID-19 a través de anticuerpos. Entonces, ¿Qué pudo pasar con estas personas? Ya que el virus puede tardar hasta un mes dentro del organismo, es probable que en algún punto haya dado resultados negativos de manera errónea y en pruebas posteriores, aparecer positivo con una recaída después de una aparente recuperación clínica. ",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T04:12:33.967Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Si me he curado de covid puedo volver a enfermarme",
+      "info": {
+        "age": 32,
+        "gender": "Female",
+        "city": "YUC",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Aún no existe evidencia científica sobre un paciente curado que se vuelva a reinfectar por el mismo tipo específico de virus. \nSin embargo, hay datos en Corea del Sur donde pacientes “recuperados” volvieron a dar positivo al virus. Los especialistas mencionan que podría deberse a una REACTIVACIÓN del virus en vez de una reinfección.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de San Luis Potosí",
+              "experience": null,
+              "specialty": "Maestría en biomateriales y medicina regenerativa por la Universidad de Sheffield"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T04:39:25.879Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Despues de curarme puedo volverme a contagiar ",
+      "info": {
+        "age": 32,
+        "gender": "Female",
+        "city": "YUC",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cuales son los medicamentos con que se trata el covid",
+      "info": {
+        "age": 32,
+        "gender": "Female",
+        "city": "YUC",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Actualmente no existe tratamiento específico para tratar la enfermedad por COVID-19.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:59:58.758Z",
+            "likes": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "si tengo sida, estoy en riesgo?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "que es un virus",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Son pequeños pedazos de material genético, encapsulados (la mayoría) en una\nenvoltura de proteínas. Al NO estar vivos requieren infectar una célula viva para poder reproducirse. La mayoría de los virus se alojan en bacterias.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T00:39:09.629Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "indice de mortandad del covid",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Hasta el 10 de abril del 2020, la OMS lo reporta en alrededor del 6%",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:33:47.717Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Distancia segura ",
+      "info": {
+        "age": 29,
+        "gender": "Female",
+        "city": "ROO",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que cubrebocas funcionan para no contagiarte o contagiar a otros",
+      "info": {
+        "age": 29,
+        "gender": "Female",
+        "city": "ROO",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Existen diferentes tipos de cubrebocas. Lo mas importante es no salir de casa. Si sales de casa y no perteneces al sector salud puedes utilizar cualquier cubreboca de tela. Los denomiandos cubrebocas N95 son exclusivos para el personal del sector salud.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:42:12.767Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "el clima calido ayuda?",
+      "info": {
+        "age": 30,
+        "gender": "Male",
+        "city": "ROO",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cuál es la técnica de lavado de  manos correcta",
+      "info": {
+        "age": 29,
+        "gender": "Female",
+        "city": "ROO",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "El procedimiento dura alrededor de 60 segundos siguiendo la técnica de la OMS:\n<a href=\"https://www.who.int/gpsc/information_centre/gpsc_lavarse_manos_poster_es.pdf?ua=1\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://www.who.int/gpsc/information_centre/gpsc_lavarse_manos_poster_es.pdf?ua=1\">who.int/gpsc/informati&hellip;</a>",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:36:52.383Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Aproximadamente cuándo será el pico de contagios",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que probabilidad tengo de morir",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Sirven las pruebas rápidas?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Hasta el momento, no existe vacuna, ni tratamiento efectivo contra la enfermedad por COVID-19. Esto incluye al uso de remedios caseros, ya que son inefectivos. Para prevenirlo, se recomiendan las medidas de lavado de manos con la técnica adecuada, distanciamiento social, uso de cubrebocas de tela en lugares donde sea difícil conservar esta distancia y evitar tocarse con las manos los ojos, nariz y boca.",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T22:24:57.703Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "asma",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Trabajar de casa",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "embarazo",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "diabetes",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Las enfermedades crónicas como la diabetes debilitan al sistema inmune. Si padeces alguna de estas enfermedades, quédate en casa y evita el riesgo de exposición para ti y tu familia!",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-10T19:44:14.739Z",
+            "likes": 1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Puede salir a correr",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "quite a bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Sí me encuentro aislada y mis papás también, puedo visitarlos si solo me traslado de un lugar a otro?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Hipertenso controlado tiene riesgos?",
+      "info": {
+        "age": 29,
+        "gender": "Female",
+        "city": "YUC",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Cuándo son mas contagiosos las personas enfermas?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "SARS-CoV-2 ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Por qué el COVID-19 es tan contagioso?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Primero, necesitamos definir qué significa altamente contagioso. Para tener una idea de qué tan transmisible es un virus, los científicos hacemos un estimado a partir del \"número reproductivo básico\", o mejor conocido como \"R0\". Este número describe la capacidad de una persona enferma de contagiar a otras más de su entorno, siempre que NO se apliquen medidas de prevención del virus, como la cuarentena o el distanciamiento social. En el caso de SARS-COV-2 (el virus que ocasiona la enfermedad COVID-19), su R0 se estima entre 2 y 3. Es decir, una persona enfermar podrá contagiar a 2 o 3 personas más - y esas 2 o 3 contagiar a otras 4 - 9; esas 4 o 9 personas podrán contagiar a otras 8 o 27, y así sucesivamente - y de manera exponencial.\n\nPor otro lado, tenemos a su mecanismo principal de transmisión, que es a través de gotas respiratorias - pequeñas gotitas expulsadas al toser, estornudar o hablar - que pueden aterrizar de forma directa en la cara de alguien en contacto cercano, o sobre superficies que otras personas pueden tocar, contaminar sus manos y después introducir el virus a su organismo tocándose los ojos, nariz o boca. \n\nAún quedan muchas cosas por aprender del virus. Existen otros mecanismos de transmisión propuestos y que pudieran estar involucrados con su rápida y amplia diseminación. Por ejemplo, a través de una ruta fecal - oral. Por ejemplo, de las heces en unas manos sin lavar, hasta la boca o a través del drenaje y contaminación de baños. Existe cierta evidencia en China de haber encontrado material genérico (ARN) perteneciente al virus en las heces de personas infectadas. Sin embargo, esto sigue siendo controvertido, ya que el ARN del virus puede estar en las heces, sin que necesariamente sea infeccioso.",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T03:08:50.814Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que es soldai?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "ninguna",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "¨Hola!, ¿Cuál es tú pregunta?",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T18:01:24.869Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Después de aislamiento 14 días sin síntomas, eso quiere decir que no tengo covid-19?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Qué medidas se tomarán para el regreso a clase?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "quite a bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cura del virus",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cura",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Actualmente no existe tratamiento definitivo o vacuna para prevenir la enfermedad por COVID-19. ",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:58:07.989Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Se puede transmitir el virus si me baño en una piscina ñ?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "No. Hasta el momento, no existe información que mencione que la infección se puede contraer después de haber nadado en albercas.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:37:49.341Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Aparte del distanciamiento social, que otras medidas debemos tomar para evitar contagio?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que medicamentos o alimentos se recomienda tomar ante la sospecha del covid?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "El virus se transmite por la humedad en el aire",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Los arcos sanitizantes son efectivos para evitar propagar el virus",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "De qué tela deben ser las mascarillas quirúrgicas para evitar que se escape el virus en un estornudo",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "De acuerdo con el Centro de Control de Enfermedades de Estados Unidos (CDC, por sus siglas en inglés) se recomienda el uso de mascarillas fabricadas con tela de algodón para la población general.\n\n<a href=\"https://espanol.cdc.gov/enes/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://espanol.cdc.gov/enes/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html\">espanol.cdc.gov/enes/c&hellip;</a>",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T22:30:18.173Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Vigilancia centinela cómo funciona ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "me voy a morir de covid",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a lot"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Será que el encierro termine el día 30 de Abril??? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Las medidas de aislamiento social pueden durar más tiempo del establecido. Los tiempos exactos serán determinados después de una evaluación día a día del estado actual. Lo más importante es permanecer en casa si es posible.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:34:41.169Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "me puedo enfermar por comer comida china",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "No existe evidencia de riesgo de contagio por COVID-19 a través de alimentos.",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T22:31:24.837Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Como hacer un sanitizante en casa",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Como hacer un sanitizante en casa",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Necesitaras los siguientes ingredientes:\n• Etanol al 96%\n• Peróxido de hidrógeno al 3%\n• Glicerol al 98%\n• Agua destilada estéril o hervida fría.\nPuedes seguir las indicaciones en el siguiente documento:\n<a href=\"https://www.who.int/gpsc/5may/tools/ES_PSP_GPSC1_GuiaParaLaElaboracionLocalWEB-2012.pdf?ua=1\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://www.who.int/gpsc/5may/tools/ES_PSP_GPSC1_GuiaParaLaElaboracionLocalWEB-2012.pdf?ua=1\">who.int/gpsc/5may/tool&hellip;</a>",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:52:06.703Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "mexico",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Para conocer el estado actual de todos los países, visita el reporte diario publicado por la OMS en: <a href=\"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports\">who.int/emergencies/di&hellip;</a>",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:33:06.672Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "cura",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "oms",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "covid",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Los coronavirus son una extensa familia de virus que pueden causar enfermedades tanto en animales como en humanos. En los humanos, se sabe que varios coronavirus causan infecciones respiratorias que pueden ir desde el resfriado común hasta enfermedades más graves como el síndrome respiratorio de Oriente Medio (MERS) y el síndrome respiratorio agudo severo (SRAS). El coronavirus que se ha descubierto más recientemente causa la enfermedad por coronavirus COVID-19.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T00:41:19.376Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "turquia",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "muerte",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Es una buena medida usar cloro en los artículos del súper?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Uso de cloro",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que es Paciente asintomático?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Es aquel paciente que porta el virus y que es capaz de transmitirlo a otros, sin presentar síntomas. Es decir, verse en apariencia completamente sano.",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T04:13:40.435Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Es cierto que el coronavirus ayuda a la regeneración de tejidos? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "No existe evidencia científica de que así sea. Al contrario, por toda la acción que el virus desarrolla dentro del cuerpo humano se desencadena una destrucción del tejido pulmonar y epitelial en la tráquea.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de San Luis Potosí",
+              "experience": null,
+              "specialty": "Maestría en biomateriales y medicina regenerativa por la Universidad de Sheffield"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T05:00:17.328Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": " Una vez controlada la gran cantidad de contagios ¿cómo se puede asegurar que no haya otra pandemia ?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "si tengo contacto con alguien que es portador del virus es 100% que me contiagiare? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a lot"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Primero que nada, dependería que tipo de contacto y si ambas partes estabas usando algún tipo de protección personal como cubre bocas o guantes.\nDe no haber sido así, es muy posible el contagio ya que este virus es altamente transmisible, sin embargo, hay que tomar en cuenta que la reacción del sistema inmune de cada persona es distinto, por lo cual no se podrían mostrar los síntomas.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de San Luis Potosí",
+              "experience": null,
+              "specialty": "Maestría en biomateriales y medicina regenerativa por la Universidad de Sheffield"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T04:55:43.073Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Para el 15 de mayo en Mexico ya habrá bajado la cantidad de contagios ?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cómo saber si el gel sanitizante es realmente bueno y no están abusando de vender lo que sea ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "es cierto que en lo casos graves por COVID-19, elt tejido de los pulmones quedan dañados?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "El coronavirus secuestra las células sanas del tejido pulmonar para replicarse, lo cual provoca una destrucción del tejido, así como una generación de una respuesta inmune por parte del organismo. Por lo tanto, se produce una inflamación en los pulmones, que en una forma exacerbada, puede provocar la destrucción de células sanas dejando dañado este órgano.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de San Luis Potosí",
+              "experience": null,
+              "specialty": "Maestría en biomateriales y medicina regenerativa por la Universidad de Sheffield"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-11T04:51:10.127Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Sí solamente tengo un síntoma ¿Qué debo hacer?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Actualmente los criterios de un casos sospechoso son:\nCualquier persona, que presente al menos 2 de estos: Dolor de cabeza, fiebre y tos; y al menos uno de los siguientes: dificultad para respirar, hinchazón en articulaciones con dificultad de movimiento, dolor muscular, ardor de garganta, rinorrea, conjuntivitis y dolor de tórax.\nSi cumple con los criterios anteriores es candidato a hacerse la prueba de coronavirus. Consulte con su secretaria de salud cuales son las denominadas \"Clínicas centinela\".",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:57:20.189Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que tan agresivo es el virus en niños?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cual es el mejor desinfectante que mata el virus?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que tan seguro es visitar a mis familiares que han estado Aislado al igual que yo?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Para proteger a tus seres queridos, se recomienda seguir estrictamente las indicaciones de la cuarentena. Es decir, evitar visitas a otros familiares y gente que no viva en el mismo domicilio que tú. De este modo, tú y tus seres queridos evitarán el riesgo de contagio, si alguno de ustedes fuera portador asintomático del virus o estuviera en una fase de incubación en donde no se muestran síntomas.",
+            "authorInfo": {
+              "institute": "Benemérita Universidad Autónoma de Puebla",
+              "experience": null,
+              "specialty": "Enfermedades Infecciosa por la Universidad de Kent"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T22:36:26.831Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Puedo salir al patio de mi casa?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Fue creado en un laboratorio",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Por qué en Estados Unidos hay muchas más muertes que en México?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "va a ser peligroso salir en mayo?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "es dañino hacer gárgaras de sal",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Por qué las personas hipertensas constituyen un grupo de riesgo?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": [
+          {
+            "text": "La enfermedades crónicas como la hipertensión favorecen un sistema inmune más débil debido a que favorecen un estado inflamatorio. Esta falta de protección conlleva a que nuestro cuerpo no pueda combatir eficientemente cualquier tipo de agresión inmune, como una infección. Para conocer más sobre la hipertensión y por qué exactamente ocurre esto, puedes leer: <a href=\"https://www.revistanefrologia.com/es-la-participacion-inmunidad-patogenia-hipertension-articulo-S0211699519301158\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"https://www.revistanefrologia.com/es-la-participacion-inmunidad-patogenia-hipertension-articulo-S0211699519301158\">revistanefrologia.com/&hellip;</a>",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:43:07.206Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Son útiles los cubre bocas al salir a la calle sino estás enfermo? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Qué probabilidad de vida tiene una persona intubada?",
+      "info": {
+        "age": 48,
+        "gender": "Female",
+        "city": "YUC",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Contagio ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "el calor mata el virus",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "el covid-19 fue creado por el hombre?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Puedo pedir comida a domicilio?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "que pasa las muertes por neumonía atípica",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "almost nothing"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Tengo covid? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Soy adulta mayor 67 años vivo sola hace un mes empecé con dolor de garganta y re sequedad tos primero poca después frecuente, ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Hola tengo 67 años, vivo sola empecé hace un mes con dolor de garganta y tos seca, visité un médico y me informó que sí tenía síntomas dé covid19 tomé refuerzo para vías respiratorias y vitaminas para sistema inmunológico, la tos fue en aumento mi garganta y mi nariz completamente secas y la tos asfixiante me desgastaba todo mi organismo pero nunca me atreví a hacérsela prueba mi temperatura siempre permaneció en 37 grados estoy absolutamente en cuarentena a la fecha sigo con tos garganta y nariz seca mi tos es menos agresiva ya mi cuerpo no se siente ta agotado pero sigo mucha tos y con dolores de pecho qué me sugieren a veces me desespero mucho con la tos sólo me he mantenido con remedios caseros que me aconsejan",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "salio negativo la prueba ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Alimentos",
+      "info": {
+        "age": 25,
+        "gender": "Not specified",
+        "city": "TAB",
+        "country": "MX",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Se puede contagiar una persona por segunda vez? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Hasta el momento no existe evidencia concluyente que apunte a que hay inmunidad total frente al virus que causa la enfermedad por COVID-19. La evidencia con otros virus similares nos dice que si existe algo de inmunidad, sin embargo, nos sabemos con certeza que papel juegan elementos como la variabilidad o \"mutación\" viral.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:50:04.214Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Siento mi pecho un poco apretado ,respiro bien y mi estómago un poco inflamado y la verdad desde que inicio lo del covid19 estoy asustado y no se si sea eso lo que me suceda , si es pánico o nose",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "En México un caso sospechoso es: cualquier persona, que presente al menos 2 de estos: Dolor de cabeza, fiebre y tos; y al menos uno de los siguientes: dificultad para respirar, hinchazón en articulaciones con dificultad de movimiento, dolor muscular, ardor de garganta, rinorrea, conjuntivitis y dolor de tórax.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T17:59:55.096Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "El covid19 se puede contraer por medio de los alimentos preparados o solo por la envoltura?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que tiempo tarda en manifestarse un contagio",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "quite a bit"
+          }
+        ],
+        "answers": [
+          {
+            "text": "Los síntomas de enfermedad por COVID-19 pueden manifestarse en un rango de 0-14 días después de haber ocurrido el contagio.",
+            "authorInfo": {
+              "institute": "Universidad Autónoma de Baja California",
+              "experience": null,
+              "specialty": " Maestría en salud publica en the London School of Health and Tropical Medicine"
+            },
+            "isPublic": true,
+            "createdAt": "2020-04-12T18:00:37.899Z",
+            "likes": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Hola, tengo un gato que sale a la calle todos los días y deambula por la cuadra. Con qué lo podría desinfectar al regresar a casa?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "quite a bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Hola, como desinfecto a mi gato que entra y sale de la casa?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "En cuanto tiempo se calcula tener la vacuna ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que país tiene más muertes? ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Turn off",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "letalidad",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cuantos días duran los sintomas",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Y la aspirina , porque en  vez  de paracetamol",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Qué es el R0 y por qué es importante?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "cura",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "cual es la posibilidad de contagio a un menor de 3 años con asma",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Que medicamento se utiliza con enfermo del COVID19?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "a little bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Por qué borra la respuesta cuando respondo si me fue útil? :(",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Me puedo contagiar si pido comida a domicilio?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Si mi mascota está en la calle, ¿me pudo contagiar al acariciarla?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "¿Cómo tengo que lavrme las manos para no contagiarme?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Me pican los huevos ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Para desinfectar comida traída del super es suficiente el IODO de un bactericida? o debe ser alcohol?",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "not specified"
+          }
+        ],
+        "answers": []
+      }
+    }
+  },
+  {
+    "question": {
+      "text": "Cúanto tiempo debo esperar para salir después de haber estado contagiado ",
+      "info": {
+        "age": null,
+        "gender": "Not specified",
+        "city": "",
+        "country": "",
+        "poll": [
+          {
+            "id": "overwhelmedFeeling",
+            "question": "Después de leer esta información ¿Qué tan nervioso, ansioso, o abrumado te sientes?",
+            "answer": "quite a bit"
+          }
+        ],
+        "answers": []
+      }
+    }
+  }
+]
